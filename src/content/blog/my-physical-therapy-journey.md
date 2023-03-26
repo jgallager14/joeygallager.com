@@ -1,6 +1,6 @@
 ---
 title: "My Physical Therapy Journey"
-description: "Reflecting on my journey as a physical therapist in profit-driven healthcare companies and why I ultimately left the industry, while still holding hope for a return to the field with a patient-centric approach."
+description: "Reflecting on my journey as a Physical Therapist in profit-driven healthcare companies and why I ultimately left the industry."
 pubDate: "Mar 25 2023"
 ---
 
