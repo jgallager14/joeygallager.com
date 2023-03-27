@@ -4,6 +4,6 @@ import tailwind from "@astrojs/tailwind";
 import prefetch from "@astrojs/prefetch";
 
 export default defineConfig({
-  site: "https://westonharper.com",
+  site: "https://joeygallager.com",
   integrations: [mdx(), tailwind(), prefetch()],
 });
